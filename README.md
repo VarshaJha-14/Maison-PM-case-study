@@ -251,8 +251,7 @@ Maison/
 ├── PRD & Agile Backlog
 ├── AI Feature & Responsible AI
 ├── Metrics, Experimentation & GTM
-├── Wireframes
-├── Figma Prototype
+├── User flow Diagram
 └── README.md
 ```
 
@@ -266,6 +265,7 @@ Maison/
 | PRD | Functional requirements, User stories, Acceptance Criteria |
 | Responsible AI | AI workflow, Privacy, Safety, Architecture |
 | Metrics & GTM | KPIs, Experiments, Dashboard, Launch Strategy |
+| User Flow Diagram | MVP Flowchart, Primary Path |
 
 ---
 
