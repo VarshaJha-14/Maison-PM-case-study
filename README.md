@@ -3,6 +3,8 @@
 # 🏛️ MAISON
 ### *Your Personal AI Fashion House*
 Try the MVP Prototype : https://maison-ai-stylist.lovable.app
+
+
 Demo for Stakeholders : https://www.loom.com/share/d5d59be0d6644fc7a8f950d8cee29671 
 ### From Inspiration to Outfit
 
