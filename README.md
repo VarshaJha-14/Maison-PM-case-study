@@ -252,6 +252,7 @@ Maison/
 ├── AI Feature & Responsible AI
 ├── Metrics, Experimentation & GTM
 ├── User flow Diagram
+├──AI Tool Usage Appendix
 └── README.md
 ```
 
