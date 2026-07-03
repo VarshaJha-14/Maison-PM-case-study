@@ -2,11 +2,12 @@
 
 # 🏛️ MAISON
 ### *Your Personal AI Fashion House*
+Try the MVP Prototype : https://maison-ai-stylist.lovable.app
 
 ### From Inspiration to Outfit
 
 Transform a screenshot or a simple text prompt into a complete, budget-friendly outfit curated across multiple retailers using AI.
-MVP Prototype : https://maison-ai-stylist.lovable.app
+
 ---
 
 ![Status](https://img.shields.io/badge/Status-Product%20Case%20Study-6C63FF)
